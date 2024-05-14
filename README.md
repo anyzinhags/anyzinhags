@@ -1,16 +1,16 @@
-### Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**anyzinhags/anyzinhags** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é any 
 
-Here are some ideas to get you started:
+-estou estudando na alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-estou desenvolvendo na linguagem do javaScript
+ 
+-utilizo desse espaço para minha organização e copartilhamento dos meus projetos desenvolvidos
+  
+### você entar em contato comigo 📧
+
+00001107692830sp@al.educacao.sp.gov.br
+@anyzinhags
+
+![](https://media1.tenor.com/m/s28G2C4NEYQAAAAC/kita.gif)
